@@ -25,8 +25,8 @@ h2 a {
 }
 
 hr::before {
-    content: '';
-    color: #fff;
+    content: '...';
+    color: #8899a6;
 }
 
 #author-header .item {
