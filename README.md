@@ -1,6 +1,6 @@
 # Listed Noir
 
-Listed Noir is a dark theme for the Listed blogging/newsletter extension of Standard Notes. 
+Listed Noir is a dark theme for the Listed blogging/newsletter extension of [Standard Notes](https://standardnotes.org/). 
 
 ## Instructions
 
