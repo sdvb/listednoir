@@ -2,17 +2,23 @@
 metatype: css
 ---
 
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans|Playfair+Display');
+
+
 html, body {
     background-color: #1B2836;
     color: #8899a6;
+    font-family: font-family: 'IBM Plex Sans', sans-serif;
 }
  
 .post-content {
     color: #8899a6;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 
 h2 a {
     color: #FF5555;
+    font-family: 'Playfair Display', serif;
 }
 
 #author-header .item:not(.first) {
@@ -21,6 +27,7 @@ h2 a {
 }
 
 #author-header .bio {
+    font-family: 'IBM Plex Sans', sans-serif;
     opacity: 1;
 }
 
@@ -31,6 +38,7 @@ hr::before {
 
 #author-header .item {
     color: #8899a6;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 
 #header {
@@ -44,6 +52,7 @@ hr::before {
 #subscription-form .sublabel {
     color: #8899a6;
     opacity: 0.5;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 
 #footer .left .listed {
@@ -62,8 +71,16 @@ hr::before {
     border: 1px solid #8899a6;
 }
 
+#subscription-form label {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
 .previous-next-container .previous, .previous-next-container .next {
     border: 1px solid #8899a6;
+}
+
+#single-post-show .more-from {
+  font-family: 'IBM Plex Sans', sans-serif;
 }
   
   
