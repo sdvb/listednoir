@@ -26,6 +26,10 @@ h2 a {
     border-left: 1px solid #8899a6;
 }
 
+#author-header .username {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
 #author-header .bio {
     font-family: 'IBM Plex Sans', sans-serif;
     opacity: 1;
