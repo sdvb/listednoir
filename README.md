@@ -11,8 +11,7 @@ Listed Noir is a dark theme for the Listed blogging/newsletter extension of [Sta
 
 ## Changelog
 
-2018-07-19
----
+*2018-07-19*:
 
 - Updated font consistency in the footer of an individual post
 - Beautified the CSS
